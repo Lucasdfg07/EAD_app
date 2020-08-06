@@ -40,7 +40,8 @@
     height: 10.4rem;
     border-radius: 0.8rem;
     margin-right: 1.6rem;
-    font: 700 2.0rem Archive;
+    font-weight: 700; 
+    font-size: 2.0rem;
     display: flex;
     align-items: center;
     justify-content: center;

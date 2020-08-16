@@ -1,6 +1,6 @@
 ## Proffy EAD app
 
-Application made with React JS made into Rocketseat's Next Level Week. It has the objective to improve distance learning in coronavirus pandemic times.
+Application made with React JS into Rocketseat's Next Level Week. It has the objective to improve distance learning in coronavirus pandemic times.
 
 ## Video Presentation
 [<img src="https://github.com/Lucasdfg07/EAD_app/blob/master/src/assets/images/readme/home.png" width="50%">](https://www.linkedin.com/posts/lucas-siqueira-167362148_programming-rubyonrails-fullstack-activity-6700864370039169024-P97i "Click to see the youtube video!")
